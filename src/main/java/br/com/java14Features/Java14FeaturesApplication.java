@@ -12,7 +12,6 @@ public class Java14FeaturesApplication {
 		System.out.println("\n----------------------");
 		System.out.println("ENTROU NA APLICAÇÃO!!!");
 		System.out.println("----------------------\n");
-		
 
 	}
 
